@@ -10,6 +10,9 @@ body {
   /* color: var(--white); */
   font-family: Roboto, sans-serif;
   display:flex;
+  justify-content:center;
+  align-items: center;
+  text-align: center;
   margin: 0;
   padding: 0;
 }
@@ -80,6 +83,7 @@ body {
 }
 
 .WalletInfo {
+  
   margin-top: 20px;
   padding: 20px;
   /* background-color: transparent; Semi-transparent background */
